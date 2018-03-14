@@ -1,2 +1,5 @@
 # hello-world
-This is a tutorial to learn github
+
+Hi Peoples!
+
+My name is Joshua and I like turtles
